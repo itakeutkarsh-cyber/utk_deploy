@@ -1,0 +1,21 @@
+{
+  "name": "utk_deploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "utk",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "utkarsh tiwari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
+  }
+}
